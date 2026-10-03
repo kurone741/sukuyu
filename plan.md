@@ -12,7 +12,7 @@ available widgets for home:
 - cava-style music visualizer
 
 ## contextual rotary encoder - physical UI/UX
-* msv = mus
+* msv = music visualizer
 
 
  |   |  press | hold | double press | turn right | turn left |
